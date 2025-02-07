@@ -39,8 +39,7 @@ graph TD;
     A -->|Carga dinámica| E[Presupuesto (Angular)];
     A -->|Carga dinámica| F[UI (Navbar & Footer - Angular)];
 ```
-
-![output](https://github.com/user-attachments/assets/9d56ed69-f541-4861-bedd-fcacdbf2bacc)
+![output](https://github.com/user-attachments/assets/4f6e359a-50b3-4a78-9f8f-7cc071bdcffc)
 
 
 ---
@@ -56,7 +55,7 @@ siaf-mfe-presupuesto/    → Repositorio del MFE Presupuesto (Angular)
 siaf-mfe-ui/             → Repositorio del MFE UI (Navbar, Footer en Angular)
 ```
 
-![output (1)](https://github.com/user-attachments/assets/894a7263-614d-47fd-a4a2-d475d5dd5320)
+![output (1)](https://github.com/user-attachments/assets/cb7baa65-fdda-4fe1-8e6b-a6b1a0da6c43)
 
 
 ### 📌 **Estructura interna del Shell (Host)**
