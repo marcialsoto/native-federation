@@ -114,12 +114,10 @@ export default defineFederationConfig({
 
 ---
 
-📌 **Conclusión**
-🚀 Se ha implementado una estrategia de **Microfrontends con Native Federation** basada en **multirepo**, integrando manejo de estados con **Signals** y persistencia con **LocalStorage**. 
+📌 **Monorepo**
 
-📌 **¿Próximos pasos?**
-🔹 Configuración de CI/CD para despliegue independiente.  
-🔹 Integración de autenticación JWT para los MFEs.  
-🔹 Optimización de carga con `lazy loading`.  
-
-
+```bash
+ng g @angular-architects/native-federation:init --project sna --port 4201 --type remote
+ng g @angular-architects/native-federation:init --project snt --port 4202 --type remote
+ng g @angular-architects/native-federation:init --project ui --port 4203 --type remote
+```
