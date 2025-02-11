@@ -1,5 +1,0 @@
-{
-	"ui": "http://localhost:4203/remoteEntry.json",
-	"snt": "http://localhost:4202/remoteEntry.json",
-	"sna": "http://localhost:4201/remoteEntry.json"
-}
